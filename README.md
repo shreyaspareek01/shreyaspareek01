@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Three.js<br><br>👯 I’m looking to collaborate on Frontend Projects<br><br>💬 Ask me about HTML, CSS, JavaScript, React.js<br><br>📫 How to reach me shreyaspareek3101@gmail.com<br><br>⚡ Fun fact I am still wondering how to center a div
+🌱 I’m currently learning MERN.<br><br>👯 I’m looking to collaborate on Frontend Projects<br><br>💬 Ask me about HTML, CSS, JavaScript, React.js<br><br>📫 How to reach me shreyaspareek3101@gmail.com<br><br>⚡ Fun fact I am still wondering how to center a div
 
 
 ## 🌐 Socials:
